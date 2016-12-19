@@ -7,6 +7,7 @@ https://github.com/mboareto/InterplayNotchID_neurogenesis/blob/master/InterplayN
 ### Analysis single-cell data in the adult brain 
 https://github.com/mboareto/InterplayNotchID_neurogenesis/blob/master/InterplayNotch_IDs_AdultBrain.ipynb
 
-
 ### Analysis single-cell data in the embryonic cells
+https://github.com/mboareto/InterplayNotchID_neurogenesis/blob/master/InterplayNotch_IDs_MouseEmbryoData.ipynb
+
 https://github.com/mboareto/InterplayNotchID_neurogenesis/blob/master/InterplayNotch_IDs_HumanEmbryoData.ipynb
